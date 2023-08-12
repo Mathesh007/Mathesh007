@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mathesh007
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning about MERN Stack
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me ...
       1) Gmail: mathesharul@gmail.com
